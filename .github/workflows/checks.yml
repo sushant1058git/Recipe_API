@@ -1,5 +1,5 @@
 ---
-name: Checksss
+name: Checks
 
 on: [push]
 
